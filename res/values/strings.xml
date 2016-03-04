@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>  <!-- Resource object will be used to grab the string array below in the Adapater class -->
+    <string name="app_name">CSCI_5331_Spring2016_Lab06_DavidLewis</string>
+    <string-array name="country_names">
+        <item>germany</item> <!-- 1 -->
+        <item>argentina</item> <!-- 2 -->
+        <item>netherlands</item> <!-- 3 -->
+        <item>brazil</item> <!-- 4 -->
+        <item>france</item> <!-- 5 -->
+        <item>mexico</item> <!-- 6 -->
+        <item>belgium</item> <!-- 7 -->
+        <item>italy</item> <!-- 8 -->
+        <item>russia</item> <!-- 9 -->
+
+
+    </string-array>
+</resources>
